@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.header{
+    margin-top:0px;
+    width:100%;
+    text-align:left;
+    font-size: 30px;
+}
+.header button{
+    float:right;
+    border: 1px solid white;
+    color:white;
+}
+canvas{
+    border:5px solid white;
+    box-shadow:5px 5px 5px white;
+    border-radius: 7px;;
+}
+.modal-body{
+    text-align:left ;
+}
+h4{
+    background-color: grey;
+    color: white;
+    width: 100%;
+    bottom: 0px;
+}
